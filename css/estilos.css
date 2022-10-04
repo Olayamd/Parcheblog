@@ -42,16 +42,6 @@ body
 #container h1
 {
     font-size: 20px;
-<<<<<<< HEAD
-
-}
-
-#post
-{
-    background: rgb(255, 255, 255);
-    padding: 1em;
-}
-=======
 }
 #footer 
 {
@@ -59,4 +49,3 @@ body
     color: white;
     text-align: center;
 }
->>>>>>> 955305007bb184e8781013b274b6ea80d2c43e24
